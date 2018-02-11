@@ -3,8 +3,8 @@
     package="zuo.biao.library.test" >
 
     <uses-sdk
-        android:minSdkVersion="15"
-        android:targetSdkVersion="22" />
+        android:minSdkVersion="23"
+        android:targetSdkVersion="26" />
 
     <instrumentation
         android:name="android.test.InstrumentationTestRunner"
@@ -24,10 +24,6 @@
     <uses-permission android:name="android.permission.CAMERA" />
     <uses-permission android:name="android.permission.CALL_PHONE" />
     <uses-permission android:name="android.permission.SEND_SMS" />
-
-    <meta-data
-        android:name="android.support.VERSION"
-        android:value="25.3.1" />
 
     <application
         android:debuggable="true"
@@ -88,6 +84,10 @@
             android:screenOrientation="portrait"
             android:theme="@style/Window"
             android:windowSoftInputMode="stateAlwaysHidden" />
+
+        <meta-data
+            android:name="android.support.VERSION"
+            android:value="26.0.0" />
     </application>
 
 </manifest>

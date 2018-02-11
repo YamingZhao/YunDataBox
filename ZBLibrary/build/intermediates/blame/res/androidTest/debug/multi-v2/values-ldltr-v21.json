@@ -1,25 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/i310736/Android-ZBLibrary/ZBLibrary(AndroidStudio)/ZBLibrary/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-ldltr-v21/values-ldltr-v21.xml",
-            "map": [
-                {
-                    "source": "/Users/i310736/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/e976b9f842fc51dbfd1dfb2411d4aa98/res/values-ldltr-v21/values-ldltr-v21.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "112",
-                        "endOffsets": "163"
-                    }
-                }
-            ]
-        },
-        {
             "outputFile": "/Users/i310736/YunDataBox/ZBLibrary/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-ldltr-v21/values-ldltr-v21.xml",
             "map": [
                 {
-                    "source": "/Users/i310736/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/e976b9f842fc51dbfd1dfb2411d4aa98/res/values-ldltr-v21/values-ldltr-v21.xml",
+                    "source": "/Users/i310736/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0.aar/2d9a168700d177b6ca5be3fb21d2adb6/res/values-ldltr-v21/values-ldltr-v21.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
